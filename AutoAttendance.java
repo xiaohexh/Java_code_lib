@@ -1,4 +1,4 @@
-package com.jd.AutoAttendance;
+package com.xx.AutoAttendance;
 
 /**
  * 自动打卡考勤程序，根据页面不同，解析网页的代码需要修改
