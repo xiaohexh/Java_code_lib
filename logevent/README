@@ -1,0 +1,3 @@
+broadcast log event with UDP using Netty(NioDatagramChannel)
+log-broadcast: broadcast log event
+log-monitor:   receive log event
