@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+    <name>dom4j-demo</name>
+    <url>http://www.xiaohe.com</url>
+    <properties>
+        <property name="service" value="encode-decode"/>
+        <property name="version" value="1.0.0-SNAPSHOT"/>
+    </properties>
+</project>
